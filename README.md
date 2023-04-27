@@ -20,7 +20,7 @@ We provided R production code for reproducible and experimental purposes under [
 Please cite our paper using following BibTeX item:
 
     @article{luopratola2023shard,
-        title={Sparse Additive Gaussian Process Regression},
+        title={Sharded Bayesian Additive Regression Trees},
         author={Hengrui Luo and Matthew T. Pratola},
         year={2023},
         eprint={2305.xxxx},
