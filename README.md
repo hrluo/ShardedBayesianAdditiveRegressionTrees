@@ -5,7 +5,7 @@
 
 **Content**
 This is the code repository for the research publication "Sharded Bayesian Additive Regression Trees" (abbreviated SBT) by Hengrui Luo and [Matthew T. Pratola](http://www.matthewpratola.com/). 
-The manuscript of this paper can be accessed at [https://arxiv.org/abs/2305.xxxx](https://arxiv.org/abs/2306.00361). 
+The manuscript of this paper can be accessed at [https://arxiv.org/abs/2306.00361](https://arxiv.org/abs/2306.00361). 
 
  - In [experiment folder](https://github.com/hrluo/ShardedBayesianAdditiveRegressionTrees/tree/master/experiment), we provided a the R and bash code that reproduce the BART and SBT Branin/Friedman synthetic datasetsfor large datasets. The root folder contains the [openBT](https://bitbucket.org/mpratola/openbt/src/master/) software distribution we used to conduct the experiments, including compilable C++ source code. Please refer `README_openBT.md` to set up the distribution. Our environment is Ubuntu 22.04. 
  - In [experiment/redshift folder](https://github.com/hrluo/ShardedBayesianAdditiveRegressionTrees/tree/master/experiment/redshift), we provided the actual redshift dataset we used to test the scalability in our paper. 
