@@ -20,12 +20,12 @@ We provided R production code for reproducible and experimental purposes under [
 Please cite our paper using following BibTeX item:
 
     @article{luopratola2023shard,
-        title={Sharded Bayesian Additive Regression Trees},
-        author={Hengrui Luo and Matthew T. Pratola},
-        year={2023},
-        eprint={2305.xxxx},
-        archivePrefix={arXiv},
-        primaryClass={math.ST}
+    title={Sharded Bayesian Additive Regression Trees},
+    author={Hengrui Luo and Matthew T. Pratola},
+    year={2023},
+    eprint={2306.00361},
+    archivePrefix={arXiv},
+    primaryClass={stat.ML}
     }
 
 Thank you again for the interest and please reach out if you have further questions.
